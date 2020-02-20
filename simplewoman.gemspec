@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Kaylin Bittner"]
   spec.email         = ["kaylinbittner@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Get unsolicited advice in your terminal}
+  spec.description   = %q{Simplewoman, derived from the sarcastic comments of Michael Wong, is used to recieve unsolicited advice in your terminal}
   spec.homepage      = "https://github.com/kaylinbittner/simplewoman"
   spec.license       = "MIT"
 
